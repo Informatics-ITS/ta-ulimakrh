@@ -1,9 +1,13 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: Ulima Kaltsum Rizky Hibatullah  
+**Nama Mahasiswa**: Ulima Kaltsum Rizky Hibatullah
+
 **NRP**: 5025211232
+
 **Judul TA**: Identifikasi Kepribadian Berbasis Teks dengan Fine-Tuned Transformer Models 
+
 **Dosen Pembimbing**: Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D
+
 **Dosen Ko-pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom, M.Sc.
 
 ---
