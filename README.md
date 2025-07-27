@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Ulima Kaltsum Rizky Hibatullah  
+**NRP**: 5025211232
+**Judul TA**: Identifikasi Kepribadian Berbasis Teks dengan Fine-Tuned Transformer Models 
+**Dosen Pembimbing**: Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D
+**Dosen Ko-pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom, M.Sc.
 
 ---
 
@@ -71,5 +71,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: 5025211232@student.its.ac.id
+- Pembimbing Utama: shintami@its.ac.id
